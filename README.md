@@ -1,4 +1,4 @@
-# IoT-Based Smart Shopping Cart
+<img width="1280" height="579" alt="image" src="https://github.com/user-attachments/assets/0e1dd19e-efbb-4296-ad22-1b9b062244ed" /># IoT-Based Smart Shopping Cart
 
 An IoT-based smart shopping cart system using ESP32-CAM module and Wi-Fi
 for automated billing in supermarkets.
@@ -74,7 +74,12 @@ iot-based-smart-shopping-cart/
 
 ---
 
-## 📸 Project Demo
+## 🎥 Project Demonstration
+
+[![IoT-Based Smart Shopping Cart Demo](https://youtube.com/shorts/Amb7axc3yww?si=_SnB9IrceqsSALrs)
+
+📝 Note: This demo video does not contain audio.  
+On-screen text has been added to explain the working of the project.
 
 ---
 
