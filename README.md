@@ -1,5 +1,3 @@
-![IoT-Based Smart Shopping Cart](iot%20Model.jpeg)
-
 An IoT-based smart shopping cart system using ESP32-CAM module and Wi-Fi
 for automated billing in supermarkets.
 
@@ -12,11 +10,15 @@ and the cart scans items automatically to calculate the total bill.
 
 ## 📸 Project Images
 
+### Web Page
+<img src="IoT webpage.jpeg" alt="Web Page" width="500"/>
+
 ### System Model
 <img src="Iot Model.jpeg" alt="System Model" width="500"/>
 
 ### IoT Connection
-![IoT Connection](IoT%20connection.jpeg)
+<img src="IoT connection.jpeg" alt="IoT Connection" width="500"/>
+
 
 ---
 
