@@ -13,10 +13,10 @@ and the cart scans items automatically to calculate the total bill.
 ## 📸 Project Images
 
 ### System Model
-![System Model](iot%20Model.jpeg)
+![System Model](Iot%20Model.jpeg)
 
 ### IoT Connection
-![IoT Connection](iot%20connection.jpeg)
+![IoT Connection](IoT%20connection.jpeg)
 
 ---
 
