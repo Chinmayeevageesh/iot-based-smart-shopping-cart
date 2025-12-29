@@ -86,7 +86,7 @@ iot-based-smart-shopping-cart/
 
 ## 🎥 Project Demonstration
 
-[![IoT-Based Smart Shopping Cart Demo](https://youtube.com/shorts/Amb7axc3yww?si=_SnB9IrceqsSALrs)
+(https://youtube.com/shorts/Amb7axc3yww?si=_SnB9IrceqsSALrs)
 
 📝 Note: This demo video does not contain audio.  
 On-screen text has been added to explain the working of the project.
