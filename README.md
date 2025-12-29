@@ -91,6 +91,11 @@ iot-based-smart-shopping-cart/
 📝 Note: This demo video does not contain audio.  
 On-screen text has been added to explain the working of the project.
 
+## 💻 Source Code
+The main controller code for the smart shopping cart is available in the
+`software/cart_controller.ino` file. It handles RFID scanning, bill
+calculation, LCD display, and Wi-Fi communication.
+
 ---
 
 ## 🚀 Future Enhancements
