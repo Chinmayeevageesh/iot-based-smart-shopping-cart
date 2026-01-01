@@ -65,24 +65,24 @@ and the cart scans items automatically to calculate the total bill.
 
 ## 📂 Project Structure
 iot-based-smart-shopping-cart/
+│
 ├── README.md
-├── hardware/
-│ ├── components_list.txt
-│ └── circuit_diagram.png
 ├── software/
-│ ├── cart_controller.ino
-│ └── server_code.py
-├── architecture/
-│ └── system_architecture.png
-├── screenshots/
-│ ├── lcd_display.jpg
-│ └── output_screen.png
-├── demo/
-│ └── demo_video_link.txt
-└── report/
-└── smart_shopping_cart_report.pdf
+│   ├── arduino/
+│   ├── backend/
+│   ├── frontend/
+│
+├── database/
+│   └── smart_cart.sql
+│
+├── report/
+│   ├── project_report.pdf
+|   └── demo/
 
----
+
+## 📄 Project Report
+The detailed project report is available here:  
+[View Project Report](Report.docx)
 
 ## 🎥 Project Demonstration
 
@@ -92,10 +92,6 @@ iot-based-smart-shopping-cart/
 On-screen text has been added to explain the working of the project.
 
 📝 Note: The frontend files are static and shown for demonstration purposes only.
-
-## 📄 Project Report
-The detailed project report is available here:  
-[View Project Report](Report.docx)
 
 ## 🚀 Future Enhancements
 - Mobile application integration
