@@ -95,7 +95,7 @@ On-screen text has been added to explain the working of the project.
 
 ## 📄 Project Report
 The detailed project report is available here:  
-[View Project Report](Report/iot-based-smart-shopping-cart.docx)
+[View Project Report](Report.docx)
 
 ## 🚀 Future Enhancements
 - Mobile application integration
