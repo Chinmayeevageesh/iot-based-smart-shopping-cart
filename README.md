@@ -93,10 +93,9 @@ On-screen text has been added to explain the working of the project.
 
 📝 Note: The frontend files are static and shown for demonstration purposes only.
 
-## 🗄️ Database Design (SQL)
-The project uses an SQL database to store product information and billing
-details. The database schema and queries are available in the
-`software/database/smart_cart.sql` file.
+## 📄 Project Report
+The detailed project report is available here:  
+[View Project Report](Report/iot-based-smart-shopping-cart.docx)
 
 ## 🚀 Future Enhancements
 - Mobile application integration
