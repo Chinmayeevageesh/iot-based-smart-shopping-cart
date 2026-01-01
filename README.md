@@ -91,18 +91,12 @@ iot-based-smart-shopping-cart/
 📝 Note: This demo video does not contain audio.  
 On-screen text has been added to explain the working of the project.
 
-## 💻 Source Code
-The main controller code for the smart shopping cart is available in the
-`software/cart_controller.ino` file. It handles RFID scanning, bill
-calculation, LCD display, and Wi-Fi communication.
-
 📝 Note: The frontend files are static and shown for demonstration purposes only.
 
 ## 🗄️ Database Design (SQL)
 The project uses an SQL database to store product information and billing
 details. The database schema and queries are available in the
 `software/database/smart_cart.sql` file.
----
 
 ## 🚀 Future Enhancements
 - Mobile application integration
