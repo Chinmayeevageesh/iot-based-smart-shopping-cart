@@ -79,10 +79,13 @@ iot-based-smart-shopping-cart/
 │   ├── project_report.pdf
 |   └── demo/
 
+---
 
 ## 📄 Project Report
 The detailed project report is available here:  
 [View Project Report](Report.docx)
+
+---
 
 ## 🎥 Project Demonstration
 
@@ -92,6 +95,8 @@ The detailed project report is available here:
 On-screen text has been added to explain the working of the project.
 
 📝 Note: The frontend files are static and shown for demonstration purposes only.
+
+---
 
 ## 🚀 Future Enhancements
 - Mobile application integration
